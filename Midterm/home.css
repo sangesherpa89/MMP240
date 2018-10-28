@@ -1,0 +1,63 @@
+body 
+<style> 
+            body {
+            
+            }
+            div.a {
+            text-indent: 50px;
+                }
+            *{
+                margin: 0;
+                padding: 0;
+                
+            }
+            nav{
+                background-color: black;
+                text-align: center;
+            }
+            nav ul{
+                list-style: none;
+            }
+            nav li {
+                display: inline;
+            }
+            nav a{
+               
+                display: inline-block;
+                padding: 12px;
+                background-color: none;
+                color:crimson;
+                text-decoration: none;
+            }
+            nav a:hover{
+                background-color: black;
+                color: aliceblue; 
+            }
+            h1{ 
+                font-size: 40px;
+                font-family: 'Cinzel', serif;
+                color: black;
+            }
+            h3{
+                font-size: 23;
+                font-family: 'Cinzel', serif;
+                color: aliceblue
+                }
+            p{
+                font-size: 25px;
+                font-family: 'Oswald', sans-serif;
+            }
+            p1{
+                font-size: 16px;
+                font-family: 'Oswald', sans-serif;
+                color: white;
+            }
+            h2{font-size: 35px;
+                font-family: 'Boogaloo', cursive;
+                color: whitesmoke;
+                
+            }
+            }
+                    }
+        </style>
+}
